@@ -22,6 +22,7 @@ mono_crash.*
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
+<<<<<<< HEAD
 
 [Dd]ebug/x64/
 [Dd]ebugPublic/x64/
@@ -37,6 +38,10 @@ obj/x64/
 bin/x86/
 obj/x86/
 
+=======
+x64/
+x86/
+>>>>>>> 25954e15e2f97fbd97b411e583befd944fd0b87b
 [Ww][Ii][Nn]32/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
@@ -323,6 +328,12 @@ node_modules/
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
 
+<<<<<<< HEAD
+=======
+# Visual Studio 6 auto-generated project file (contains which files were open etc.)
+*.vbp
+
+>>>>>>> 25954e15e2f97fbd97b411e583befd944fd0b87b
 # Visual Studio 6 workspace and project file (working project files containing files to include in project)
 *.dsw
 *.dsp
